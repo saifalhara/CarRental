@@ -1,0 +1,10 @@
+
+7
+java:S1220""Move this file to a named package.8³ΘΛ1
+z
+java:S4144*"XUpdate this method so that its implementation is not identical to "isRented" on line 13.(ή—¤μÿÿÿÿÿ8¶ΘΛ1
+L	java:S106$"+Replace this use of System.out by a logger.(™η£ÿÿÿÿÿ8ΉΘΛ1
+G	java:S106'"+Replace this use of System.out by a logger.(ΐυϊ8ΉΘΛ1
+G	java:S1060"+Replace this use of System.out by a logger.(§θευ8ΉΘΛ1
+G	java:S1065"+Replace this use of System.out by a logger.(ξ§δ8ΊΘΛ1
+L	java:S1068"+Replace this use of System.out by a logger.(½±ήΆψÿÿÿÿ8ΊΘΛ1
